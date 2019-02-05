@@ -2,12 +2,15 @@
 	"author": "Mihir Mahakalkar",
 	"name": "fcc-learn-npm-package-json",
 	"description": "a cool project in progress",
-	"keywords": ["freecodecamp", "npm"],
+	"keywords": [
+		"freecodecamp",
+		"npm"
+	],
 	"license": "MIT",
 	"version": "1.2",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment":"~2.10.2"
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
